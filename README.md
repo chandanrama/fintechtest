@@ -1,2 +1,1 @@
-# fintechtest
-One more test repository
+Checking if this works
